@@ -1,0 +1,13 @@
+name: "Blog of SUN"
+description: "Web Front-End Blog by SUN"
+
+url: "http://suntong.com/blog"
+
+timezone: Asia/BeiJing
+
+paginate: 20
+
+highlighter: pygments
+
+markdown: rdiscount
+permalink: pretty
